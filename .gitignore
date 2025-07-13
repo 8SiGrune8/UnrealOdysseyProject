@@ -1,0 +1,34 @@
+# ✅ Основные папки Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# ✅ Системные файлы и IDE
+.vscode/
+.idea/
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.log
+*.user
+*.ipch
+
+# ✅ Файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ✅ Кэшированное содержимое
+*.pdb
+*.obj
+*.exe
+*.dll
+
+# ✅ Launcher backup
+*.autosave
+*.backup
+
+cesium-request-cache.sqlite
